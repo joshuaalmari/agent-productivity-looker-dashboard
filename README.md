@@ -1,9 +1,8 @@
 # 📊 Agent Productivity Dashboard – Google Looker  
 
-<p align="center" style="margin-bottom: 0;">
-  <a href="https://github.com/joshuaalmari/data-analytics-portfolio" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub%20↗️-DATA%20ANALYTICS%20PORTFOLIO-2f2f2f?style=for-the-badge&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CLICK%20TO%20RETURN-0078D4?style=for-the-badge"/>
+<p align="center">
+  <a href="https://github.com/joshuaalmari/data-analytics-portfolio">
+    <img src="https://img.shields.io/badge/GitHub%20↗️%20DATA%20ANALYTICS%20PORTFOLIO%20|%20CLICK%20TO%20RETURN-2f2f2f?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 

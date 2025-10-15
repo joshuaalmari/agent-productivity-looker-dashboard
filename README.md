@@ -92,9 +92,9 @@ It provides <b>real-time insights</b> for team leaders to assess productivity, i
 ---
 
 ## 📥 Resources
-- [Excel Data Template](data-prep/Agent_Productivity_Data.xlsx)  
-- [Python Automation Script (Playwright)](automation/AgentData_AutoExport.py)  
-- [Looker Dashboard Screenshot](dashboard/looker_dashboard_overview.png)  
+- [Excel Data Template](data-prep/JunoDerm%20Prod%20Report.xlsx)  
+- [Python Automation Script (Playwright)](automation/JunoDerm%20Raw%20Data%20Extraction.ipynb)  
+- [Looker Dashboard Screenshot](dashboard/junoderm-visual-preview.png)
 
 ---
 

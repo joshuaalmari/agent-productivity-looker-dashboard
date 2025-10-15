@@ -22,7 +22,6 @@ It provides <b>real-time insights</b> for team leaders to assess productivity, i
 ## 🔧 Workflow & Data Pipeline
 - **🖥️ Data Extraction:**  
   Daily activity data was automatically extracted from the company’s reporting portal using <b>Python + Playwright</b>, fully eliminating manual downloads.  
-  The data was collected continuously between <b>February 3 and June 13, 2025</b>.  
 
 - **🧹 Data Preparation:**  
   Cleaned, validated, and standardized using <b>Excel</b> and <b>Power Query</b> to ensure consistency.  

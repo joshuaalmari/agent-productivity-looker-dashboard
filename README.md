@@ -1,5 +1,5 @@
 # 📊 Agent Productivity Dashboard – Google Looker
-[← Back to Data Analytics Portfolio](https://github.com/joshuaalmari/data-analytics-portfolio)
+> 🔗 Return to the main [Data Analytics Portfolio](https://github.com/joshuaalmari/data-analytics-portfolio) for more projects.
 
 ---
 

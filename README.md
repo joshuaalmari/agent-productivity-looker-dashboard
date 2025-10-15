@@ -72,9 +72,9 @@ It provides <b>real-time insights</b> for team leaders to assess productivity, i
 
 ## 📁 Repository Contents
 - `README.md` – Project documentation  
-- `data-prep/` – Excel templates and cleaning workflows (anonymized)  
+- `data-prep/` – Python script, excel templates and cleaning workflows (anonymized)  
 - `dashboard/` – Looker dashboard screenshots and sample views  
-- `automation/` – Python scripts using Playwright for data extraction  
+- `assets/` – Visuals, banners, and logos
 
 ---
 
@@ -86,7 +86,7 @@ It provides <b>real-time insights</b> for team leaders to assess productivity, i
 
 ## 🖼️ Visual Preview
 <p align="center">
-  <img src="dashboard/looker_dashboard_overview.png" width="750">
+  <img src="dashboard/agent_prod_looker_dashboard_overview.png" width="750">
 </p>
 
 ---

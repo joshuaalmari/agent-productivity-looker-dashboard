@@ -24,7 +24,7 @@ It provides <b>real-time insights</b> for team leaders to assess productivity, i
   Daily activity data was automatically extracted from the company’s reporting portal using <b>Python + Playwright</b>, fully eliminating manual downloads.  
 
 - **🧹 Data Preparation:**  
-  Cleaned, validated, and standardized using <b>Excel</b> and <b>Power Query</b> to ensure consistency.  
+  Cleaned, validated, and standardized using <b>Excel</b> to ensure consistency.  
   - Unified date formats and field naming conventions  
   - Merged daily exports into consolidated monthly datasets  
   - Applied formula-based QA validation checks  
@@ -36,7 +36,7 @@ It provides <b>real-time insights</b> for team leaders to assess productivity, i
   Built in <b>Google Looker Studio</b> to visualize agent-level metrics, team averages, and trend patterns across the covered date range.  
 
 > ℹ️ <b>Data Coverage:</b> February 3 – June 13, 2025  
-> Data was captured via Playwright automation and transformed through Power Query before visualization.
+> Data was captured via Playwright automation and transformed through Excel before visualization.
 
 ---
 
@@ -56,7 +56,7 @@ It provides <b>real-time insights</b> for team leaders to assess productivity, i
 
 ## 🛠️ Tools & Technologies
 - **Python (Playwright)** – Automated browser-based data extraction  
-- **Excel + Power Query** – Data cleaning, merging, and validation  
+- **Excel** – Data cleaning, merging, and validation  
 - **Google Sheets** – Data staging and integration  
 - **Google Looker Studio** – Dashboard design and visualization  
 
@@ -79,7 +79,7 @@ It provides <b>real-time insights</b> for team leaders to assess productivity, i
 ---
 
 ## 🔗 Dashboard Access
-[View Google Looker Dashboard (Interactive)](https://lookerstudio.google.com/)  
+[View Google Looker Dashboard (Interactive)]([https://lookerstudio.google.com/](https://lookerstudio.google.com/reporting/63d0fa9a-7aa5-4d24-b1cf-0fc1a308fa9e))  
 *(If public access is not available, refer to the dashboard screenshots below.)*
 
 ---
@@ -102,7 +102,7 @@ It provides <b>real-time insights</b> for team leaders to assess productivity, i
 - **Source:** Internal performance reports (anonymized)  
 - **Data Coverage:** February 3 – June 13, 2025  
 - **Collection Method:** Automated daily export via Python + Playwright  
-- **Transformation:** Excel + Power Query  
+- **Transformation:** Excel  
 - **Storage:** Google Sheets (connected to Looker Studio)  
 - **Refresh Type:** Static snapshot (data collection concluded June 2025)  
 

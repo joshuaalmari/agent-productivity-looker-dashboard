@@ -86,7 +86,7 @@ It provides <b>real-time insights</b> for team leaders to assess productivity, i
 
 ## 🖼️ Visual Preview
 <p align="center">
-  <img src="dashboard/agent_prod_looker_dashboard_overview.png" width="750">
+  <img src="dashboard/junoderm-visual-preview.png" width="750">
 </p>
 
 ---

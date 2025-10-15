@@ -20,12 +20,24 @@ It provides <b>real-time insights</b> for team leaders to assess productivity, i
 ---
 
 ## 🔧 Workflow & Data Pipeline
-- **🖥️ Data Extraction:** Automated daily export of performance data using <b>Python + Playwright</b>, removing the need for manual downloads.  
-- **🧹 Data Preparation:** Cleaned, validated, and standardized data using <b>Excel</b> and <b>Power Query</b> to ensure accuracy.  
-- **📊 Data Integration:** Processed datasets were uploaded to <b>Google Sheets</b> as a dynamic data source for Looker.  
-- **📈 Dashboard Development:** Built in <b>Google Looker</b> to visualize KPIs for agent-level and team-wide performance tracking.  
+- **🖥️ Data Extraction:**  
+  Daily activity data was automatically extracted from the company’s reporting portal using <b>Python + Playwright</b>, fully eliminating manual downloads.  
+  The data was collected continuously between <b>February 3 and June 13, 2025</b>.  
 
-> ℹ️ <b>Data Update Frequency:</b> Automatically refreshed daily through Python scripts and integrated Google Sheets data feeds.  
+- **🧹 Data Preparation:**  
+  Cleaned, validated, and standardized using <b>Excel</b> and <b>Power Query</b> to ensure consistency.  
+  - Unified date formats and field naming conventions  
+  - Merged daily exports into consolidated monthly datasets  
+  - Applied formula-based QA validation checks  
+
+- **📊 Data Integration:**  
+  Processed data was uploaded to <b>Google Sheets</b> as a live source connected to Looker Studio.  
+
+- **📈 Dashboard Development:**  
+  Built in <b>Google Looker Studio</b> to visualize agent-level metrics, team averages, and trend patterns across the covered date range.  
+
+> ℹ️ <b>Data Coverage:</b> February 3 – June 13, 2025  
+> Data was captured via Playwright automation and transformed through Power Query before visualization.
 
 ---
 
@@ -44,32 +56,32 @@ It provides <b>real-time insights</b> for team leaders to assess productivity, i
 ---
 
 ## 🛠️ Tools & Technologies
-- **Python (Playwright)** – Automated browser-based data export  
-- **Excel + Power Query** – Data cleaning and transformation  
-- **Google Sheets** – Live data connection layer  
+- **Python (Playwright)** – Automated browser-based data extraction  
+- **Excel + Power Query** – Data cleaning, merging, and validation  
+- **Google Sheets** – Data staging and integration  
 - **Google Looker Studio** – Dashboard design and visualization  
 
 ---
 
 ## 🚀 Impact
-- Streamlined daily reporting through <b>automated data extraction</b> and transformation workflows.  
-- Reduced manual report generation time by over <b>80%</b>.  
-- Provided <b>team leaders</b> with real-time, actionable insights for performance monitoring.  
-- Improved <b>data visibility</b> across multiple operational KPIs.  
+- Streamlined data collection with <b>automated daily exports</b> from February to June 2025.  
+- Reduced manual report generation by over <b>80%</b>.  
+- Provided <b>team leaders</b> with accurate and timely operational insights.  
+- Centralized all performance metrics in a single, dynamic dashboard.  
 
 ---
 
 ## 📁 Repository Contents
-- `README.md` – Project overview and documentation  
+- `README.md` – Project documentation  
 - `data-prep/` – Excel templates and cleaning workflows (anonymized)  
 - `dashboard/` – Looker dashboard screenshots and sample views  
-- `automation/` – Python scripts for Playwright automation  
+- `automation/` – Python scripts using Playwright for data extraction  
 
 ---
 
 ## 🔗 Dashboard Access
 [View Google Looker Dashboard (Interactive)](https://lookerstudio.google.com/)  
-*(If public access is not available, screenshots can be viewed below.)*
+*(If public access is not available, refer to the dashboard screenshots below.)*
 
 ---
 
@@ -88,10 +100,12 @@ It provides <b>real-time insights</b> for team leaders to assess productivity, i
 ---
 
 ## 📎 Data Notes
-- **Source:** Internal agent productivity reports (anonymized for demo)  
-- **Data Type:** Daily updated performance data  
-- **Integration:** Google Sheets connected to Looker Studio  
-- **Frequency:** Automated daily refresh  
+- **Source:** Internal performance reports (anonymized)  
+- **Data Coverage:** February 3 – June 13, 2025  
+- **Collection Method:** Automated daily export via Python + Playwright  
+- **Transformation:** Excel + Power Query  
+- **Storage:** Google Sheets (connected to Looker Studio)  
+- **Refresh Type:** Static snapshot (data collection concluded June 2025)  
 
 ---
 

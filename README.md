@@ -79,7 +79,7 @@ It provides <b>real-time insights</b> for team leaders to assess productivity, i
 ---
 
 ## 🔗 Dashboard Access
-[View Google Looker Dashboard (Interactive)](https://lookerstudio.google.com/reporting/63d0fa9a-7aa5-4d24-b1cf-0fc1a308fa9e)  
+[View Google Looker Dashboard ↗](https://lookerstudio.google.com/reporting/63d0fa9a-7aa5-4d24-b1cf-0fc1a308fa9e)  
 
 
 ---
